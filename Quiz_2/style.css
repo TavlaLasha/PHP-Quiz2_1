@@ -1,0 +1,39 @@
+header{
+    border: solid 1px black;
+    background-color: silver;
+    width: 80%;
+    margin: auto;
+    height: 65px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 15px;
+}
+header > a {
+    font-size: 20px;
+    text-decoration: none;
+    padding: 5px;
+}
+#cont{
+    border: solid 1px black;
+    background-color: cornflowerblue;
+    width: 80%;
+    margin: auto;
+    min-height: 400px;
+    text-align: center;
+    display: flex;
+}
+nav{
+    min-width: 100px;
+    min-height: 400px;
+    background-color: cyan;
+    box-sizing: border-box;
+    padding: 10px;
+    float: right;
+}
+span{
+    color: red;
+    text-shadow: black 1px 1px 3px;
+}
+article{
+    margin: auto;
+}
