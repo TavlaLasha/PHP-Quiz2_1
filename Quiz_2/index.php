@@ -10,6 +10,7 @@
     <title>Quiz2_1</title>
 </head>
 <body>
+    lasha
     <?php
         include "blocks/header.php";
         include "blocks/body.php";
